@@ -11,7 +11,7 @@ plugins=(git sublime atom pip pylint python z yarn tmux vundle)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-export PATH="/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin:/usr/texbin"
+export PATH="/home/ben/miniconda3/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/local/git/bin"
 
 alias o="open"
 alias zshconfig="o ~/.zshrc"
