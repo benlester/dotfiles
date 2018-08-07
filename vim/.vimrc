@@ -36,6 +36,8 @@ Plugin 'sheerun/vim-polyglot'
 Plugin 'Valloric/MatchTagAlways'
 Plugin 'godlygeek/tabular'
 Plugin 'w0rp/ale'
+Plugin 'SirVer/ultisnips'
+Plugin 'honza/vim-snippets'
 
 call vundle#end()
 
