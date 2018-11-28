@@ -38,6 +38,7 @@ Plugin 'godlygeek/tabular'
 Plugin 'w0rp/ale'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
+Plugin 'ap/vim-css-color'
 
 call vundle#end()
 
