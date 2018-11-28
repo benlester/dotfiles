@@ -39,6 +39,7 @@ Plugin 'w0rp/ale'
 Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 Plugin 'ap/vim-css-color'
+Plugin 'styled-components/vim-styled-components'
 
 call vundle#end()
 
