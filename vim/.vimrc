@@ -75,4 +75,10 @@ nnoremap tn  :tabnext<Space>
 nnoremap tm  :tabm<Space>
 nnoremap td  :tabclose<CR>
 
+" remapping annoying caps mistakes
+:command WQ wq
+:command Wq wq
+:command W w
+:command Q q
+
 colorscheme jellybeans
