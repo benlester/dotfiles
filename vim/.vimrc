@@ -33,7 +33,6 @@ Plugin 'mattn/emmet-vim'
 Plugin 'mustache/vim-mustache-handlebars'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'sheerun/vim-polyglot'
-Plugin 'Valloric/MatchTagAlways'
 Plugin 'godlygeek/tabular'
 Plugin 'w0rp/ale'
 
