@@ -6,7 +6,7 @@ ZSH_THEME="miloshadzic"
 COMPLETION_WAITING_DOTS="true"
 HIST_STAMPS="yyyy-mm-dd"
 
-plugins=(git sublime atom pip pylint python z yarn tmux vundle)
+plugins=(git sublime pip pylint python z yarn tmux vundle)
 
 source $ZSH/oh-my-zsh.sh
 
