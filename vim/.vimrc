@@ -49,6 +49,7 @@ let mapleader = " "
 " ALE off by default - on when needed
 let g:ale_enabled = 0
 nmap <leader>ss :ALEToggle<CR>
+let g:ale_fix_on_save = 1
 
 let g:mta_filetypes = {
     \ 'html' : 1,
