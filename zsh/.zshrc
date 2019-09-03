@@ -3,7 +3,7 @@ export ZSH=$HOME/.oh-my-zsh
 export JAVA_HOME=$(/usr/libexec/java_home)
 export EDITOR='vim'
 
-ZSH_THEME="miloshadzic"
+ZSH_THEME="candy"
 COMPLETION_WAITING_DOTS="true"
 HIST_STAMPS="yyyy-mm-dd"
 
