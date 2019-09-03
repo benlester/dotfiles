@@ -7,7 +7,7 @@ ZSH_THEME="candy"
 COMPLETION_WAITING_DOTS="true"
 HIST_STAMPS="yyyy-mm-dd"
 
-plugins=(git brew sublime atom pip pylint python z yarn tmux vundle)
+plugins=(git brew z vundle)
 
 source $ZSH/oh-my-zsh.sh
 
