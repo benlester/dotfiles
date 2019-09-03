@@ -18,6 +18,8 @@ set tabstop=4
 
 set rtp+=~/.vim/bundle/Vundle.vim " Vundle related
 
+autocmd BufEnter * :syntax sync fromstart
+
 call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
