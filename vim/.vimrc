@@ -16,6 +16,8 @@ set smarttab
 set shiftwidth=4
 set tabstop=4
 
+autocmd BufEnter * :syntax sync fromstart
+
 set rtp+=~/.vim/bundle/Vundle.vim " Vundle related
 
 call vundle#begin()
