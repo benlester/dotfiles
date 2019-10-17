@@ -38,6 +38,8 @@ Plugin 'airblade/vim-gitgutter'
 Plugin 'sheerun/vim-polyglot'
 Plugin 'godlygeek/tabular'
 Plugin 'w0rp/ale'
+Plugin 'leafgarland/typescript-vim'
+Plugin 'Quramy/tsuquyomi'
 
 call vundle#end()
 
