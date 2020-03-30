@@ -41,6 +41,7 @@ Plugin 'ap/vim-css-color'
 Plugin 'w0rp/ale'
 Plugin 'pangloss/vim-javascript'
 Plugin 'HerringtonDarkholme/yats.vim'
+Plugin 'jparise/vim-graphql'
 Plugin 'Quramy/tsuquyomi'
 
 call vundle#end()
