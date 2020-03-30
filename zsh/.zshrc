@@ -15,6 +15,7 @@ export PATH="/home/ben/anaconda3/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bi
 
 alias o="gnome-open"
 alias zshconfig="o ~/.zshrc"
+eval $(thefuck --alias)
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
