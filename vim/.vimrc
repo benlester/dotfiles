@@ -40,6 +40,7 @@ Plugin 'godlygeek/tabular'
 Plugin 'ap/vim-css-color'
 Plugin 'w0rp/ale'
 Plugin 'pangloss/vim-javascript'
+Plugin 'HerringtonDarkholme/yats.vim'
 Plugin 'Quramy/tsuquyomi'
 
 call vundle#end()
