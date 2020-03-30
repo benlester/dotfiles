@@ -39,7 +39,7 @@ Plugin 'sheerun/vim-polyglot'
 Plugin 'godlygeek/tabular'
 Plugin 'ap/vim-css-color'
 Plugin 'w0rp/ale'
-Plugin 'leafgarland/typescript-vim'
+Plugin 'pangloss/vim-javascript'
 Plugin 'Quramy/tsuquyomi'
 
 call vundle#end()
