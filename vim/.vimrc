@@ -51,8 +51,8 @@ call vundle#end()
 let mapleader = " "
 
 " ALE off by default - on when needed
-let g:ale_enabled = 0
-nmap <silent> <leader>ss :ALEToggle<CR>
+"let g:ale_enabled = 0
+"nmap <silent> <leader>ss :ALEToggle<CR>
 nmap <silent> <leader>aj :ALENext<cr>
 nmap <silent> <leader>ak :ALEPrevious<cr>
 let g:ale_fix_on_save = 1
